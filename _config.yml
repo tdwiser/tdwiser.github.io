@@ -8,9 +8,9 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Timothy D. Wiser, Ph.D."
-title_separator          : "-"
+title_separator          : "|"
 name                     : &name "Timothy D. Wiser, Ph.D."
-description              : &description "Physicist; Science Education Fellow and Lecturer at Stanford"
+description              : &description "Theoretical Physicist; Science Education Fellow at Stanford"
 url                      : https://tdwiser.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tdwiser/tdwiser.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Tim Wiser"
   avatar           : "profile.png"
-  bio              : "Physicist; Science Education Fellow and Lecturer at Stanford University. Implementing research-backed pedagogy in the physics classroom. Research interests: particle theory, dark matter, cosmology, new experiments, physics education..."
+  bio              : "Theoretical Physicist; Science Education Fellow at Stanford University. Implementing research-backed pedagogy in the physics classroom. Research interests: particle theory, dark matter, cosmology, new experiments"
   location         : "Stanford, CA"
   employer         : Stanford University
   googlescholar    : # "http://yourfullgooglescholarurl.com"
