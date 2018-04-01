@@ -2,7 +2,7 @@
 title: "`physhandout` package for LaTeX"
 collection: portfolio
 permalink: /portfolio/physhandout-package
-excerpt: '`physhandout` is a package that provides a workflow for creating and organizing active-learning course handouts in LaTeX. You can grab `physhandout` [from GitHub](http://github.com/tdwiser/physhandout).'
+excerpt: '`physhandout` is a LaTeX package that provides a workflow for creating and organizing active-learning course handouts.'
 date: 2016-09-01
 ---
 

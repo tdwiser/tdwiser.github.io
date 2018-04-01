@@ -8,8 +8,8 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Timothy D. Wiser, Ph.D."
-title_separator          : "|"
-name                     : &name "Timothy D. Wiser, Ph.D."
+title_separator          : "\\|"
+name                     : &name "Timothy D. Wiser"
 description              : &description "Theoretical Physicist; Science Education Fellow at Stanford"
 url                      : https://tdwiser.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -48,14 +48,14 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : "zX42GrHGnLEGT16tw4Erl3XzeNCyXw-0q8Aol1VsxGQ"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter "tdwiser"
 facebook:
   username               :
   app_id                 :
@@ -65,8 +65,10 @@ og_image                 :  # Open Graph/Twitter default site image
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  name                   : "Tim Wiser" # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://twitter.com/tdwiser"
+    - "https://www.linkedin.com/in/tim-wiser-68715729"
 
 
 # Analytics
@@ -79,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Tim Wiser"
-  avatar           : "profile.png"
-  bio              : "Theoretical Physicist; Science Education Fellow at Stanford University. Implementing research-backed pedagogy in the physics classroom. Research interests: particle theory, dark matter, cosmology, new experiments"
+  avatar           : "wiser_profile.jpg"
+  bio              : "Theoretical Physicist; Science Education Fellow at Stanford University. Implementing research-backed pedagogy in the physics classroom. Research interests: particle theory, dark matter, cosmology, new experiments."
   location         : "Stanford, CA"
   employer         : Stanford University
   googlescholar    : # "http://yourfullgooglescholarurl.com"
@@ -178,9 +180,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+# talks:
+#   output: true
+#   permalink: /:collection/:path/
 
 
 # Defaults
@@ -210,7 +212,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comments: true
   # _publications
   - scope:
@@ -231,13 +233,13 @@ defaults:
       share: true
       comment: true
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+  # - scope:
+  #     path: ""
+  #     type: talks
+  #   values:
+  #     layout: talk
+  #     author_profile: true
+  #     share: true
 
 # Sass/SCSS
 sass:

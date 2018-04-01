@@ -109,14 +109,14 @@
 
 .page__hero {
   position: relative;
-  margin-bottom: 2em;
+  margin-bottom: 0em;
   @include clearfix;
   animation: intro 0.3s both;
   animation-delay: 0.25s;
 
   &--overlay {
     position: relative;
-    margin-bottom: 2em;
+    margin-bottom: 0em;
     padding: 3em 0;
     @include clearfix;
     background-size: cover;

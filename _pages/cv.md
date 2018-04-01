@@ -19,7 +19,7 @@ Academic History
 * Ph.D., Stanford University (2011–2016)
 	- Physics (Subfields: Particle theory and phenomenology; experimental design for fundamental physics)
 	- Dissertation: [“New Experimental Tests for Gravity and Dark Matter”](https://searchworks.stanford.edu/view/11849400)
-	- Advisor: Prof. Peter W. Graham
+	- Advisor: Peter W. Graham
 
 * AB, Washington University in St. Louis
 	- Mathematics and Physics
