@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Timothy D. Wiser, Ph.D."
 title_separator          : "\\|"
 name                     : &name "Timothy D. Wiser"
-description              : &description "Theoretical Physicist; Science Education Fellow at Stanford"
+description              : &description "Assistant Professor of Physics at Truman State University"
 url                      : https://tdwiser.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tdwiser/tdwiser.github.io"
@@ -84,13 +84,13 @@ analytics:
 author:
   name             : "Tim Wiser"
   avatar           : "wiser_profile.jpg"
-  bio              : "Theoretical Physicist; Science Education Fellow at Stanford University. Implementing research-backed pedagogy in the physics classroom. Research interests: particle theory, dark matter, cosmology, new experiments."
-  location         : "Stanford, CA"
-  employer         : Stanford University
+  bio              : "Theoretical Physicist; Assistant Professor at Truman State University. Implementing research-backed pedagogy in the physics classroom. Research interests: particle theory, dark matter, cosmology, new experiments."
+  location         : "Kirksville, MO"
+  employer         : Truman State University
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"	
-  email            : "tdwiser@stanford.edu"
+  email            : "tdwiser@truman.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -257,7 +257,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

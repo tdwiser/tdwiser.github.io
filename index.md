@@ -15,6 +15,8 @@
 
 ## Theoretical Physicist
 
+I am currently an Assistant Professor of Physics at Truman State University in Kirksville, Missouri.
+
 I earned my Ph.D. in physics in 2016. My dissertation and primary research interests are at the intersection of theoretical and experimental particle physics and cosmology.
 
 Here are some things I am interested in:
@@ -25,7 +27,7 @@ Here are some things I am interested in:
 * Explication and communication of theoretical physics
 * Equity, inclusion, and diversity in physics
 
-## Science Education Fellow
+<!-- ## Science Education Fellow
 
 My current role is in curriculum development and teaching at Stanford. I help implement "course transformations"---mainly converting lecture-based courses to interactive ones---and co-teach the transformed courses with faculty.
 
@@ -35,4 +37,4 @@ Characteristics of transformed physics courses at Stanford typically include:
 * [Skill-focused learning goals](http://stanford.edu/~tdwiser/p61/files/learning_goals.pdf) (e.g. "able to X" instead of "understand Y")
 * [Individual and small-group activities](/portfolio/sample-course-materials-physics-61), designed to practice targeted skills
 * [Problem sets](http://stanford.edu/~tdwiser/p61/files/hw_guidelines.pdf) that incorporate revision based on feedback, and function as practice, not assessment
-* A supportive and collaborative, not competitive, environment
+* A supportive and collaborative, not competitive, environment -->

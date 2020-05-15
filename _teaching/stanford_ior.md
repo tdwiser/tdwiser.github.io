@@ -1,5 +1,5 @@
 ---
-title: "Stanford Courses: Fall 2016--present"
+title: "Stanford Courses: Fall 2016--Spring 2018"
 collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/stanford-courses-2016-2017
